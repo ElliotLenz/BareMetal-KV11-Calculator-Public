@@ -89,4 +89,5 @@ Numbers are capped at seven digits. The first number is entered on the top line.
 
 ## Build
 Built with Keil µVision. Startup files from NXP; core calculator logic and keypad driver are custom.
+
 Note: The LCD driver is not included in this repository.
